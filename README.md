@@ -1,2 +1,2 @@
 # PrepCurse-Henry
-Repositorio de estudio Henry
+Este es un repositorio para el precurso de Henry.
